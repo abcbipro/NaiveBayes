@@ -13,4 +13,4 @@ Think you will need to install via pip or anaconda is:
 ## Content of code
 The code contain 2 different way to contruct the input vector, one with just term frequency and one with term frequentcy - inverce term 
 frequency. 
-To run it, use "python main.py" when you have installed all the dependency above. For more detail, please read the commend inside source code.
+To run it, use "python main.py" when you have installed all the dependency above. For more detail, please read the comment inside source code.
